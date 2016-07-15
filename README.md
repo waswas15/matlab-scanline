@@ -8,12 +8,7 @@ Syntax:  hs = imshow_sl(image)
     image - Array of size (X,Y,3)
 
  Outputs:
-    hs - a structure containing handlers to the following objects
-       fig - handle for the main figure
-       ax_img - handle for the axis containing the image
-       ax_col - handle for the axis containing the column scanline 
-       ax_row - handle for the axis containing the row scanline 
-       img - handle for the Image object containing the image
+ hs - a structure containing handlers the objects in the figure
 
  Example: 
     I = imread('lenna.png');

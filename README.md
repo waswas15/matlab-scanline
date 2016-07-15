@@ -11,7 +11,7 @@ Syntax:  hs = imshow_sl(image)
 
  Outputs:
 
- hs - a structure containing handlers the objects in the figure
+  hs - a structure containing handlers the objects in the figure
 
  Example: 
 

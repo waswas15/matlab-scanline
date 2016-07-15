@@ -6,12 +6,10 @@ imshow_sl - function to display a scan line corrosponding to a clicked pixel
 Syntax:  hs = imshow_sl(image)
 
  Inputs:
-
     image - Array of size (X,Y,3)
 
  Outputs:
-
-  hs - a structure containing handlers the objects in the figure
+    hs - a structure containing handlers the objects in the figure
 
  Example: 
 

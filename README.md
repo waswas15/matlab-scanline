@@ -18,7 +18,7 @@ Syntax:  hs = imshow_sl(image)
     h = imshow_sl(I);
 
 
- Author: Waseem Naom
+ Author: Waseem Waheed
 
  email: waseem.naom@gmail.com
 

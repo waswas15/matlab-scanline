@@ -20,6 +20,4 @@ Syntax:  hs = imshow_sl(image)
 
  Author: Waseem Waheed
 
- email: waseem.naom@gmail.com
-
  July 2016; Last revision: 15-July-2016
